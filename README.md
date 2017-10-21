@@ -1,2 +1,2 @@
 # vueapp
-Learn Vue.JS
+Simple Vue.JS actions for learn Vue.js
